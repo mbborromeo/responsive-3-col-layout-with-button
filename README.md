@@ -1,7 +1,7 @@
 # responsive-3-col-layout-with-button
-Responsive 3-column layout with button bottom-aligned
+Responsive 3-column layout with button bottom-aligned.
 
-Please refer to:
+Please refer to the files:
 - index.html
 - css/main.css
 
